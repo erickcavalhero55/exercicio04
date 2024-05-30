@@ -27,7 +27,7 @@ public class exercicio02 {
             }
         }
 
-1
+
         System.out.println("A matriz possui " + count + " valores maiores que 10.");
 
         scanner.close();
