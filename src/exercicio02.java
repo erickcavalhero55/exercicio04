@@ -12,7 +12,7 @@ public class exercicio02 {
 
         System.out.println("Digite os valores para a matriz 4x4:");
         for (int i = 0; i < 4; i++) {
-            for (int j = 0; j < 4; j++) {
+            for (int j = 0; j < 4; j++) {                                            
                 System.out.print("Elemento [" + i + "][" + j + "]: ");
                 matriz[i][j] = scanner.nextInt();
             }
